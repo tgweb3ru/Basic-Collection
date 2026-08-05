@@ -34,8 +34,6 @@ Telegram-бот для шифрования публичных сообщени�
 
 ---
 
----
-
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
