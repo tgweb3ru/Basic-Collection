@@ -99,7 +99,7 @@ Telegram-бот для расшифровки сообщений, опублик
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="clock_bot.png" style="width: 150px; height: 150px; display: block;">
+      <img src="cloc_bot.png" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Clock</h3>
@@ -174,7 +174,7 @@ Telegram-бот для уведомлений о заработанных Telegr
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="сhess_bot.png" style="width: 150px; height: 150px; display: block;">
+      <img src="chess_bot.png" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Chess</h3>
@@ -189,15 +189,15 @@ Telegram-бот для уведомлений о заработанных Telegr
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="link_bot.png" style="width: 150px; height: 150px; display: block;">
+      <img src="spam_bot.png" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">Link</h3>
+      <h3 style="margin-top: 0;">Spam</h3>
       <p>$15</p>
     </td>
   </tr>
 </table>
-Публикует ссылки после оплаты для платных анонсов и размещения рекламы
+Запускает дружеские мемы и флешмобы, поддерживая активность без лишнего шума
 
 ---
 
