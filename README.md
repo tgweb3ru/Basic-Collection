@@ -11,7 +11,7 @@
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Telegraph</h3>
-      <p>$15</p>
+      <p>$600</p>
     </td>
   </tr>
 </table>
@@ -26,7 +26,7 @@ Telegram-бот для публикации материалов группы ч
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Encrypt</h3>
-      <p>$15</p>
+      <p>$600</p>
     </td>
   </tr>
 </table>
@@ -41,7 +41,7 @@ Telegram-бот для шифрования публичных сообщени�
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Decrypt</h3>
-      <p>$15</p>
+      <p>$600</p>
     </td>
   </tr>
 </table>
@@ -56,7 +56,7 @@ Telegram-бот для расшифровки сообщений, опублик
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Oracle</h3>
-      <p>$15</p>
+      <p>$600</p>
     </td>
   </tr>
 </table>
@@ -71,7 +71,7 @@ Telegram-бот для расшифровки сообщений, опублик
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Face</h3>
-      <p>$15</p>
+      <p>$600</p>
     </td>
   </tr>
 </table>
@@ -86,7 +86,7 @@ Telegram-бот для расшифровки сообщений, опублик
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Info</h3>
-      <p>$15</p>
+      <p>$600</p>
     </td>
   </tr>
 </table>
@@ -101,7 +101,7 @@ Telegram-бот для расшифровки сообщений, опублик
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Clock</h3>
-      <p>$15</p>
+      <p>$600</p>
     </td>
   </tr>
 </table>
@@ -116,7 +116,7 @@ Telegram-бот для расшифровки сообщений, опублик
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">ADM</h3>
-      <p>$15</p>
+      <p>$600</p>
     </td>
   </tr>
 </table>
@@ -131,7 +131,7 @@ Telegram-бот для расшифровки сообщений, опублик
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Translator</h3>
-      <p>$15</p>
+      <p>$600</p>
     </td>
   </tr>
 </table>
@@ -146,7 +146,7 @@ Telegram-бот для расшифровки сообщений, опублик
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Star</h3>
-      <p>$15</p>
+      <p>$600</p>
     </td>
   </tr>
 </table>
@@ -161,7 +161,7 @@ Telegram-бот для уведомлений о заработанных Telegr
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">User</h3>
-      <p>$15</p>
+      <p>$600</p>
     </td>
   </tr>
 </table>
@@ -176,7 +176,7 @@ Telegram-бот для уведомлений о заработанных Telegr
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Chess</h3>
-      <p>$15</p>
+      <p>$600</p>
     </td>
   </tr>
 </table>
@@ -191,7 +191,7 @@ Telegram-бот для уведомлений о заработанных Telegr
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Spam</h3>
-      <p>$15</p>
+      <p>$600</p>
     </td>
   </tr>
 </table>
@@ -206,7 +206,7 @@ Telegram-бот для уведомлений о заработанных Telegr
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">QRCode</h3>
-      <p>$15</p>
+      <p>$600</p>
     </td>
   </tr>
 </table>
